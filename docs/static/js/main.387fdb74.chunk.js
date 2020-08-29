@@ -1,0 +1,2 @@
+(this["webpackJsonpcounter-app"]=this["webpackJsonpcounter-app"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var u=n(0),a=n.n(u),r=n(2),o=n.n(r),l=function(e){var t=e.saludo,n=e.subtitulo;return a.a.createElement(a.a.Fragment,null,a.a.createElement("h1",null," ",t," "),a.a.createElement("p",null,n))};l.defaultProps={subtitulo:"Soy un subtitulo"};var c=l,s=(n(8),document.querySelector("#root"));o.a.render(a.a.createElement(c,{saludo:"123"}),s)}},[[3,1,2]]]);
+//# sourceMappingURL=main.387fdb74.chunk.js.map
